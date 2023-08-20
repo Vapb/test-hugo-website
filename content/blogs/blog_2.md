@@ -6,3 +6,5 @@ tags: ['blog']
 ---
 
 Blog 2
+
+![my_image](/pic.jpg)
