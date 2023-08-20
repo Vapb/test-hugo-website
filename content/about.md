@@ -3,7 +3,11 @@ title: "About"
 date: 2023-08-20T11:19:34-03:00
 draft: False
 tags: ['updates', 'personal']
+summary: Victor fun time
 ---
+
+This is my about page
+
 
 Here is some content. This is all Markdown.
 
