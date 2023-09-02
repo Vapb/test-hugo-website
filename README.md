@@ -7,7 +7,7 @@ Cool hugo themes to check out :
 * https://themes.gohugo.io/themes/hugo-theme-iris/
 * https://themes.gohugo.io/themes/poison/
 * https://themes.gohugo.io/themes/hugo-blog-awesome/
-* https://themes.gohugo.io/themes/hugo-devcd eloper-portfolio/
+* https://themes.gohugo.io/themes/hugo-developer-portfolio/
 * https://themes.gohugo.io/themes/toha/
 * https://themes.gohugo.io/themes/lotusdocs/
 * https://themes.gohugo.io/themes/devise/
